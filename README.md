@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karthikeya Nadipelly</h1>
 <h3 align="center">Intern @DigiYodha 2021| Competitive Programming | Python | Problem Solving Skills |Creative thinking | CSE-AI 26</h3>
 
-- 🔭 I’m currently working on **ex-card(a single card synchronization system to multiple bank accounts)zation**
+- 🔭 I’m currently working on **ex-card(a single card synchronization system to multiple bank accounts)**
 
 - 🌱 I’m currently learning **java script**
 
 - 📫 How to reach me **chintukarthikeya411@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17WPL5dsz4h77oxBEqJ6VJI78F8McsL1E/view?usp=drive_link](https://drive.google.com/file/d/17WPL5dsz4h77oxBEqJ6VJI78F8McsL1E/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/17WPL5dsz4h77oxBEqJ6VJI78F8McsL1E/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
